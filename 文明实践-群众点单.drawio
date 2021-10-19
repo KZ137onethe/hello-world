@@ -1,1 +1,19 @@
-<mxfile host="app.diagrams.net" modified="2021-10-19T06:54:04.643Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" version="15.5.4" etag="M-VxHYY4DSdgeOzmMPYg" type="github"><diagram id="oPBc_4jDYfKRF5szmk1x">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-10-19T07:35:18.287Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="H_PlCD1uxE4Ot0nWpi8q" version="15.5.4" type="github">
+  <diagram id="oPBc_4jDYfKRF5szmk1x" name="第 1 页">
+    <mxGraphModel dx="1422" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="L1u2lZ3T-3ERHcfXlvra-1" value="群众" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="80" y="100" width="360" height="620" as="geometry" />
+        </mxCell>
+        <mxCell id="L1u2lZ3T-3ERHcfXlvra-2" value="志愿团队" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="440" y="100" width="360" height="620" as="geometry" />
+        </mxCell>
+        <mxCell id="L1u2lZ3T-3ERHcfXlvra-3" value="文明实践站/点/所" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="800" y="100" width="380" height="620" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
