@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-19T07:44:19.284Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="CtJtKaH2ZIwpYHRn72py" version="15.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-19T07:49:30.181Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="pHPgH2LNJ2nJbOv4S6xb" version="15.5.4" type="github">
   <diagram id="RF53XzOAA5hNaFfBE2K2" name="第 1 页">
     <mxGraphModel dx="1422" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -16,7 +16,7 @@
         <mxCell id="r-44q59jUduNmyFLekGB-18" value="&lt;ul&gt;&lt;li&gt;编辑文字，图片，地址&lt;/li&gt;&lt;li&gt;AI智能审核&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" parent="r-44q59jUduNmyFLekGB-9" vertex="1">
           <mxGeometry x="20" y="150" width="200" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="r-44q59jUduNmyFLekGB-21" value="&lt;ul&gt;&lt;li&gt;已发布/已认领/已完成/已评单可拨打电话&lt;/li&gt;&lt;li&gt;用户可以评论和点赞微心愿(也可以删除评论)&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" parent="r-44q59jUduNmyFLekGB-9" vertex="1">
+        <mxCell id="r-44q59jUduNmyFLekGB-21" value="&lt;ul&gt;&lt;li&gt;已发布/已认领/已完成/已评单可拨打电话&lt;/li&gt;&lt;li&gt;注册用户可以评论和点赞微心愿(也可以删除评论)&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" parent="r-44q59jUduNmyFLekGB-9" vertex="1">
           <mxGeometry x="20" y="280" width="200" height="90" as="geometry" />
         </mxCell>
         <mxCell id="r-44q59jUduNmyFLekGB-28" value="审核不通过" style="rounded=1;whiteSpace=wrap;html=1;" parent="r-44q59jUduNmyFLekGB-9" vertex="1">
@@ -33,6 +33,9 @@
             <mxPoint x="380" y="400" as="sourcePoint" />
             <mxPoint x="200" y="570" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="QwaynqYEqvaD4cbuKxKj-22" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-size: 14px ; background-color: rgb(255 , 255 , 255)&quot;&gt;非实名用户不能发布微心愿(此设置可在用户中心开关)&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;fontColor=#FF8000;" vertex="1" parent="r-44q59jUduNmyFLekGB-9">
+          <mxGeometry x="150" y="10" width="230" height="130" as="geometry" />
         </mxCell>
         <mxCell id="r-44q59jUduNmyFLekGB-10" value="志愿者" style="swimlane;" parent="1" vertex="1">
           <mxGeometry x="410" y="60" width="400" height="660" as="geometry" />
