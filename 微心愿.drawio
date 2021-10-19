@@ -1,1 +1,38 @@
-<mxfile host="app.diagrams.net" modified="2021-10-19T06:00:10.806Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" version="15.5.4" etag="W09PzqOVsk-lYT3ej_jx" type="github"><diagram id="RF53XzOAA5hNaFfBE2K2">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-10-19T06:11:23.739Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="ym_elhyiH4w1yYvpivs-" version="15.5.4" type="github">
+  <diagram id="RF53XzOAA5hNaFfBE2K2" name="第 1 页">
+    <mxGraphModel dx="1422" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="r-44q59jUduNmyFLekGB-9" value="普通用户" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="10" y="60" width="400" height="660" as="geometry" />
+        </mxCell>
+        <mxCell id="r-44q59jUduNmyFLekGB-13" value="用户发表微心愿" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="r-44q59jUduNmyFLekGB-9">
+          <mxGeometry x="140" y="70" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="r-44q59jUduNmyFLekGB-15" value="用户发布微心愿" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="r-44q59jUduNmyFLekGB-9">
+          <mxGeometry x="140" y="210" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="r-44q59jUduNmyFLekGB-18" value="&lt;ul&gt;&lt;li&gt;编辑文字，图片，地址&lt;/li&gt;&lt;li&gt;AI智能审核&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="r-44q59jUduNmyFLekGB-9">
+          <mxGeometry x="190" y="110" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="r-44q59jUduNmyFLekGB-10" value="志愿者" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="410" y="60" width="400" height="660" as="geometry" />
+        </mxCell>
+        <mxCell id="r-44q59jUduNmyFLekGB-20" value="志愿者认领微心愿" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="r-44q59jUduNmyFLekGB-10">
+          <mxGeometry x="130" y="210" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="r-44q59jUduNmyFLekGB-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="r-44q59jUduNmyFLekGB-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r-44q59jUduNmyFLekGB-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="r-44q59jUduNmyFLekGB-15" target="r-44q59jUduNmyFLekGB-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="510" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
