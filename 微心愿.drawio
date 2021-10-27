@@ -1,118 +1,115 @@
-<mxfile host="app.diagrams.net" modified="2021-10-27T06:12:49.054Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="Rtxfy5P-nCjUIPd6rjSS" version="15.5.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-27T06:13:13.237Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="dEe10xbgGPidTnLeQo79" version="15.5.9" type="github">
   <diagram id="RF53XzOAA5hNaFfBE2K2" name="第 1 页">
     <mxGraphModel dx="1422" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="r-44q59jUduNmyFLekGB-9" value="普通用户" style="swimlane;" parent="1" vertex="1">
-          <mxGeometry x="10" y="60" width="400" height="910" as="geometry" />
+          <mxGeometry x="10" y="60" width="400" height="660" as="geometry" />
         </mxCell>
         <mxCell id="r-44q59jUduNmyFLekGB-13" value="用户发表微心愿" style="rounded=1;whiteSpace=wrap;html=1;" parent="r-44q59jUduNmyFLekGB-9" vertex="1">
           <mxGeometry x="140" y="110" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="r-44q59jUduNmyFLekGB-15" value="用户发布微心愿" style="rounded=1;whiteSpace=wrap;html=1;" parent="r-44q59jUduNmyFLekGB-9" vertex="1">
-          <mxGeometry x="140" y="480" width="120" height="40" as="geometry" />
+          <mxGeometry x="140" y="250" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="r-44q59jUduNmyFLekGB-18" value="&lt;ul&gt;&lt;li&gt;编辑文字，图片，地址&lt;/li&gt;&lt;li&gt;AI智能审核&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" parent="r-44q59jUduNmyFLekGB-9" vertex="1">
-          <mxGeometry x="20" y="380" width="200" height="90" as="geometry" />
+          <mxGeometry x="20" y="150" width="200" height="90" as="geometry" />
         </mxCell>
         <mxCell id="r-44q59jUduNmyFLekGB-21" value="&lt;ul&gt;&lt;li&gt;已发布/已认领/已完成/已评单可拨打电话(&lt;font color=&quot;#ff0000&quot;&gt;用户注册需要手机号&lt;/font&gt;)&lt;/li&gt;&lt;li&gt;注册用户可以评论和点赞微心愿(也可以删除评论)&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" parent="r-44q59jUduNmyFLekGB-9" vertex="1">
-          <mxGeometry x="20" y="510" width="200" height="90" as="geometry" />
+          <mxGeometry x="20" y="280" width="200" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="r-44q59jUduNmyFLekGB-28" value="审核不通过" style="rounded=1;whiteSpace=wrap;html=1;" parent="r-44q59jUduNmyFLekGB-9" vertex="1">
+          <mxGeometry x="270" y="180" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="r-44q59jUduNmyFLekGB-31" value="用户服务评价" style="rounded=1;whiteSpace=wrap;html=1;" parent="r-44q59jUduNmyFLekGB-9" vertex="1">
-          <mxGeometry x="140" y="680" width="120" height="40" as="geometry" />
+          <mxGeometry x="140" y="450" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="r-44q59jUduNmyFLekGB-45" value="&lt;font color=&quot;#ff0000&quot;&gt;微心愿关闭&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#FF0000;" parent="r-44q59jUduNmyFLekGB-9" vertex="1">
-          <mxGeometry x="140" y="810" width="120" height="65" as="geometry" />
+          <mxGeometry x="140" y="580" width="120" height="65" as="geometry" />
         </mxCell>
         <mxCell id="r-44q59jUduNmyFLekGB-44" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="r-44q59jUduNmyFLekGB-9" source="r-44q59jUduNmyFLekGB-31" target="r-44q59jUduNmyFLekGB-45" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="380" y="630" as="sourcePoint" />
-            <mxPoint x="200" y="800" as="targetPoint" />
+            <mxPoint x="380" y="400" as="sourcePoint" />
+            <mxPoint x="200" y="570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QwaynqYEqvaD4cbuKxKj-22" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-size: 14px ; background-color: rgb(255 , 255 , 255)&quot;&gt;非实名用户不能发布微心愿(此设置可在用户中心开关)&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 14px ; background-color: rgb(255 , 255 , 255)&quot;&gt;用户已注册&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;fontColor=#FF8000;" parent="r-44q59jUduNmyFLekGB-9" vertex="1">
           <mxGeometry x="150" y="10" width="230" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="r-44q59jUduNmyFLekGB-28" value="审核" style="rounded=1;whiteSpace=wrap;html=1;" parent="r-44q59jUduNmyFLekGB-9" vertex="1">
-          <mxGeometry x="270" y="410" width="120" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="r-44q59jUduNmyFLekGB-10" value="志愿者" style="swimlane;" parent="1" vertex="1">
-          <mxGeometry x="410" y="60" width="400" height="910" as="geometry" />
+          <mxGeometry x="410" y="60" width="400" height="660" as="geometry" />
         </mxCell>
         <mxCell id="r-44q59jUduNmyFLekGB-22" value="完成微心愿" style="rounded=1;whiteSpace=wrap;html=1;" parent="r-44q59jUduNmyFLekGB-10" vertex="1">
-          <mxGeometry x="200" y="680" width="120" height="40" as="geometry" />
+          <mxGeometry x="200" y="450" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="r-44q59jUduNmyFLekGB-26" value="&lt;ul&gt;&lt;li&gt;弹框提示&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" parent="r-44q59jUduNmyFLekGB-10" vertex="1">
-          <mxGeometry x="130" y="620" width="100" height="60" as="geometry" />
+          <mxGeometry x="130" y="390" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="r-44q59jUduNmyFLekGB-36" value="取消认领" style="rounded=1;whiteSpace=wrap;html=1;" parent="r-44q59jUduNmyFLekGB-10" vertex="1">
-          <mxGeometry x="30" y="590" width="120" height="40" as="geometry" />
+          <mxGeometry x="30" y="360" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="r-44q59jUduNmyFLekGB-32" value="&lt;span&gt;志愿者认领微心愿&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="r-44q59jUduNmyFLekGB-10" vertex="1">
-          <mxGeometry x="120" y="475" width="160" height="50" as="geometry" />
+          <mxGeometry x="120" y="245" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="r-44q59jUduNmyFLekGB-35" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.342;entryY=0.05;entryDx=0;entryDy=0;entryPerimeter=0;" parent="r-44q59jUduNmyFLekGB-10" source="r-44q59jUduNmyFLekGB-32" target="r-44q59jUduNmyFLekGB-22" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="250" y="540" as="sourcePoint" />
-            <mxPoint x="240" y="610" as="targetPoint" />
+            <mxPoint x="250" y="310" as="sourcePoint" />
+            <mxPoint x="240" y="380" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="240" y="610" />
+              <mxPoint x="240" y="380" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="r-44q59jUduNmyFLekGB-33" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="r-44q59jUduNmyFLekGB-10" source="r-44q59jUduNmyFLekGB-32" target="r-44q59jUduNmyFLekGB-36" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-20" y="610" as="sourcePoint" />
-            <mxPoint x="160" y="610" as="targetPoint" />
+            <mxPoint x="-20" y="380" as="sourcePoint" />
+            <mxPoint x="160" y="380" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="160" y="610" />
+              <mxPoint x="160" y="380" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="r-44q59jUduNmyFLekGB-40" value="&lt;ul&gt;&lt;li&gt;用户认领12小时内可以取消，超过12小时后不能取消&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" parent="r-44q59jUduNmyFLekGB-10" vertex="1">
-          <mxGeometry x="4" y="510" width="146" height="80" as="geometry" />
+          <mxGeometry x="4" y="280" width="146" height="80" as="geometry" />
         </mxCell>
         <mxCell id="r-44q59jUduNmyFLekGB-42" value="&lt;ul&gt;&lt;li&gt;自动创建文明实践活动并关联微心愿&lt;/li&gt;&lt;li&gt;活动发布后AI审核，审核通过可完成微心愿&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" parent="r-44q59jUduNmyFLekGB-10" vertex="1">
-          <mxGeometry x="220" y="395" width="150" height="85" as="geometry" />
+          <mxGeometry x="220" y="165" width="150" height="85" as="geometry" />
         </mxCell>
         <mxCell id="r-44q59jUduNmyFLekGB-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="r-44q59jUduNmyFLekGB-13" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="210" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="r-44q59jUduNmyFLekGB-29" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1" target="r-44q59jUduNmyFLekGB-28">
+        <mxCell id="r-44q59jUduNmyFLekGB-29" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="210" y="490" as="sourcePoint" />
-            <mxPoint x="280" y="490" as="targetPoint" />
+            <mxPoint x="210" y="260" as="sourcePoint" />
+            <mxPoint x="280" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="r-44q59jUduNmyFLekGB-38" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="r-44q59jUduNmyFLekGB-15" target="r-44q59jUduNmyFLekGB-32" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="670" as="sourcePoint" />
-            <mxPoint x="440" y="620" as="targetPoint" />
+            <mxPoint x="390" y="440" as="sourcePoint" />
+            <mxPoint x="440" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="r-44q59jUduNmyFLekGB-39" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="r-44q59jUduNmyFLekGB-36" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="430" y="670" as="sourcePoint" />
-            <mxPoint x="430" y="560" as="targetPoint" />
+            <mxPoint x="430" y="440" as="sourcePoint" />
+            <mxPoint x="430" y="330" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="430" y="670" />
+              <mxPoint x="430" y="440" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="r-44q59jUduNmyFLekGB-41" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="r-44q59jUduNmyFLekGB-22" target="r-44q59jUduNmyFLekGB-31" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="640" as="sourcePoint" />
-            <mxPoint x="440" y="590" as="targetPoint" />
+            <mxPoint x="390" y="410" as="sourcePoint" />
+            <mxPoint x="440" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QwaynqYEqvaD4cbuKxKj-2" value="&lt;font color=&quot;#ff0000&quot;&gt;微心愿&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
           <mxGeometry x="360" y="10" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="OOwuhPQQeL1bpA8QN-XB-1" value="B端" style="swimlane;" vertex="1" parent="1">
-          <mxGeometry x="810" y="60" width="400" height="910" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
