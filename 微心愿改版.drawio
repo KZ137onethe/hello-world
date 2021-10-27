@@ -1,20 +1,38 @@
-<mxfile host="app.diagrams.net" modified="2021-10-27T07:37:10.110Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="4qMizwjrSXUXW-vZvufq" version="15.5.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-27T07:41:28.353Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="tIHx0ZhQq3OJWuvwyGqk" version="15.5.9" type="github">
   <diagram id="3Zdumfhe-f5hq_ZNzXjN" name="第 1 页">
     <mxGraphModel dx="1422" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="ZOVWsehxwjOW1M9SSfNJ-1" value="用户" style="swimlane;" vertex="1" parent="1">
-          <mxGeometry x="320" y="160" width="250" height="540" as="geometry" />
+          <mxGeometry x="320" y="160" width="250" height="700" as="geometry" />
+        </mxCell>
+        <mxCell id="ZOVWsehxwjOW1M9SSfNJ-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ZOVWsehxwjOW1M9SSfNJ-1" source="ZOVWsehxwjOW1M9SSfNJ-5" target="ZOVWsehxwjOW1M9SSfNJ-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZOVWsehxwjOW1M9SSfNJ-5" value="实名注册用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ZOVWsehxwjOW1M9SSfNJ-1">
+          <mxGeometry x="65" y="60" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZOVWsehxwjOW1M9SSfNJ-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ZOVWsehxwjOW1M9SSfNJ-1">
+          <mxGeometry x="65" y="140" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZOVWsehxwjOW1M9SSfNJ-3" value="志愿者" style="swimlane;" vertex="1" parent="1">
-          <mxGeometry x="570" y="160" width="240" height="540" as="geometry" />
+          <mxGeometry x="570" y="160" width="240" height="700" as="geometry" />
         </mxCell>
         <mxCell id="ZOVWsehxwjOW1M9SSfNJ-4" value="P端" style="swimlane;" vertex="1" parent="1">
-          <mxGeometry x="1050" y="160" width="250" height="540" as="geometry" />
+          <mxGeometry x="1050" y="160" width="240" height="700" as="geometry" />
         </mxCell>
         <mxCell id="ZOVWsehxwjOW1M9SSfNJ-2" value="B端" style="swimlane;" vertex="1" parent="1">
-          <mxGeometry x="810" y="160" width="240" height="540" as="geometry" />
+          <mxGeometry x="810" y="160" width="240" height="700" as="geometry" />
+        </mxCell>
+        <mxCell id="ZOVWsehxwjOW1M9SSfNJ-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ZOVWsehxwjOW1M9SSfNJ-2" source="ZOVWsehxwjOW1M9SSfNJ-6" target="ZOVWsehxwjOW1M9SSfNJ-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZOVWsehxwjOW1M9SSfNJ-6" value="活动中心" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ZOVWsehxwjOW1M9SSfNJ-2">
+          <mxGeometry x="60" y="60" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZOVWsehxwjOW1M9SSfNJ-7" value="创建微心愿" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ZOVWsehxwjOW1M9SSfNJ-2">
+          <mxGeometry x="60" y="140" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
