@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-02T01:33:43.803Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="BYq2iJjdOIikDQjjUjjl" version="15.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-02T02:07:31.598Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="3JEJF7mYP-pSUXS025fw" version="15.6.5" type="github">
   <diagram id="3Zdumfhe-f5hq_ZNzXjN" name="第 1 页">
     <mxGraphModel dx="1422" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -63,7 +63,7 @@
         <mxCell id="RCU2VM99q2kTq8CPx5C1-67" value="取消发布微心愿" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" parent="ZOVWsehxwjOW1M9SSfNJ-1" vertex="1">
           <mxGeometry x="200" y="400" width="115" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ZOVWsehxwjOW1M9SSfNJ-3" value="志愿者" style="swimlane;fillColor=#FFFFFF;strokeColor=default;fontColor=default;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="ZOVWsehxwjOW1M9SSfNJ-3" value="志愿者" style="swimlane;fillColor=#FFFFFF;strokeColor=default;fontColor=default;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="570" y="160" width="280" height="980" as="geometry">
             <mxRectangle x="570" y="160" width="70" height="23" as="alternateBounds" />
           </mxGeometry>
@@ -184,33 +184,6 @@
         </mxCell>
         <mxCell id="RCU2VM99q2kTq8CPx5C1-68" value="取消发布微心愿" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" parent="ZOVWsehxwjOW1M9SSfNJ-2" vertex="1">
           <mxGeometry x="127.5" y="740" width="115" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="6Wp8ZB3QyJgt8Iu6o3w5-1" value="志愿者审核" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;strokeColor=default;fontColor=default;" vertex="1" parent="ZOVWsehxwjOW1M9SSfNJ-2">
-          <mxGeometry x="245" y="360" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="6Wp8ZB3QyJgt8Iu6o3w5-3" value="审核通过" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontColor=default;" vertex="1" parent="ZOVWsehxwjOW1M9SSfNJ-2">
-          <mxGeometry x="200" y="425" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="6Wp8ZB3QyJgt8Iu6o3w5-4" value="驳回" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontColor=default;" vertex="1" parent="ZOVWsehxwjOW1M9SSfNJ-2">
-          <mxGeometry x="350" y="425" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="6Wp8ZB3QyJgt8Iu6o3w5-5" value="" style="endArrow=classic;html=1;rounded=0;labelBackgroundColor=default;fontColor=default;strokeColor=default;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="ZOVWsehxwjOW1M9SSfNJ-2" source="6Wp8ZB3QyJgt8Iu6o3w5-1" target="6Wp8ZB3QyJgt8Iu6o3w5-3">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-150" y="460" as="sourcePoint" />
-            <mxPoint x="280" y="450" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="275" y="440" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="6Wp8ZB3QyJgt8Iu6o3w5-7" value="" style="endArrow=classic;html=1;rounded=0;labelBackgroundColor=default;fontColor=default;strokeColor=default;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="ZOVWsehxwjOW1M9SSfNJ-2" source="6Wp8ZB3QyJgt8Iu6o3w5-1" target="6Wp8ZB3QyJgt8Iu6o3w5-4">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-150" y="460" as="sourcePoint" />
-            <mxPoint x="335" y="440" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="335" y="440" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="ZOVWsehxwjOW1M9SSfNJ-89" value="" style="endArrow=classic;html=1;rounded=0;fontColor=#000000;strokeColor=#000000;exitX=0;exitY=0.5;exitDx=0;exitDy=0;labelBackgroundColor=default;" parent="1" source="ZOVWsehxwjOW1M9SSfNJ-81" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -433,6 +406,45 @@
             <Array as="points">
               <mxPoint x="735" y="700" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6Wp8ZB3QyJgt8Iu6o3w5-12" value="P端" style="swimlane;labelBackgroundColor=#F9F3E4;fontColor=default;strokeColor=default;strokeWidth=1;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="160" width="280" height="980" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wp8ZB3QyJgt8Iu6o3w5-1" value="志愿者审核" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;strokeColor=default;fontColor=default;" vertex="1" parent="6Wp8ZB3QyJgt8Iu6o3w5-12">
+          <mxGeometry x="80" y="360" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wp8ZB3QyJgt8Iu6o3w5-4" value="驳回" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontColor=default;" vertex="1" parent="6Wp8ZB3QyJgt8Iu6o3w5-12">
+          <mxGeometry x="190" y="420" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wp8ZB3QyJgt8Iu6o3w5-7" value="" style="endArrow=classic;html=1;rounded=0;labelBackgroundColor=default;fontColor=default;strokeColor=default;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="6Wp8ZB3QyJgt8Iu6o3w5-12" source="6Wp8ZB3QyJgt8Iu6o3w5-1" target="6Wp8ZB3QyJgt8Iu6o3w5-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-580" y="460" as="sourcePoint" />
+            <mxPoint x="-95" y="440" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="170" y="435" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6Wp8ZB3QyJgt8Iu6o3w5-3" value="审核通过" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontColor=default;" vertex="1" parent="6Wp8ZB3QyJgt8Iu6o3w5-12">
+          <mxGeometry x="30" y="420" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wp8ZB3QyJgt8Iu6o3w5-5" value="" style="endArrow=classic;html=1;rounded=0;labelBackgroundColor=default;fontColor=default;strokeColor=default;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="6Wp8ZB3QyJgt8Iu6o3w5-12" source="6Wp8ZB3QyJgt8Iu6o3w5-1" target="6Wp8ZB3QyJgt8Iu6o3w5-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-580" y="460" as="sourcePoint" />
+            <mxPoint x="-150" y="450" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="110" y="435" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6Wp8ZB3QyJgt8Iu6o3w5-13" value="&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;文明实践中心&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#F9F3E4;fontColor=default;strokeColor=default;strokeWidth=1;fillColor=default;" vertex="1" parent="6Wp8ZB3QyJgt8Iu6o3w5-12">
+          <mxGeometry x="80" y="250" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wp8ZB3QyJgt8Iu6o3w5-15" value="" style="endArrow=classic;html=1;rounded=0;labelBackgroundColor=default;fontColor=default;strokeColor=default;strokeWidth=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="6Wp8ZB3QyJgt8Iu6o3w5-12" source="6Wp8ZB3QyJgt8Iu6o3w5-13" target="6Wp8ZB3QyJgt8Iu6o3w5-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-70" y="180" as="sourcePoint" />
+            <mxPoint x="-20" y="130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
