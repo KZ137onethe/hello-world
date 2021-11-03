@@ -1,20 +1,59 @@
-<mxfile host="app.diagrams.net" modified="2021-11-03T01:17:24.130Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="nAUUxOb-tHXu758_RpZr" version="15.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-03T02:16:22.648Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="x0IgK47WqjkIdLI4HqVr" version="15.6.6" type="github">
   <diagram id="AXBYRpy8WyjKm1C0F52a" name="第 1 页">
     <mxGraphModel dx="1422" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="prNHeGF-ZFUsA7QcRSHx-1" value="备注" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="60" y="80" width="270" height="120" as="geometry" />
+        <mxCell id="PWN6N76G5UAPGbaR_pDu-1" value="备注" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;pointerEvents=1;fillColor=default;strokeColor=default;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="20" y="40" width="230" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="prNHeGF-ZFUsA7QcRSHx-2" value="群众点单指群众选择志愿者团队的志愿活动" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontColor=default;" vertex="1" parent="prNHeGF-ZFUsA7QcRSHx-1">
-          <mxGeometry y="30" width="270" height="30" as="geometry" />
+        <mxCell id="PWN6N76G5UAPGbaR_pDu-2" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=1;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="PWN6N76G5UAPGbaR_pDu-1">
+          <mxGeometry y="30" width="230" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="prNHeGF-ZFUsA7QcRSHx-3" value="志愿者团队的账号才能进行点单服务，完成一个点单服务" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontColor=default;" vertex="1" parent="prNHeGF-ZFUsA7QcRSHx-1">
-          <mxGeometry y="60" width="270" height="30" as="geometry" />
+        <mxCell id="PWN6N76G5UAPGbaR_pDu-3" value="1" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="PWN6N76G5UAPGbaR_pDu-2">
+          <mxGeometry width="51" height="40" as="geometry">
+            <mxRectangle width="51" height="40" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="prNHeGF-ZFUsA7QcRSHx-4" value="Item 3" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontColor=default;" vertex="1" parent="prNHeGF-ZFUsA7QcRSHx-1">
-          <mxGeometry y="90" width="270" height="30" as="geometry" />
+        <mxCell id="PWN6N76G5UAPGbaR_pDu-4" value="&lt;span&gt;群众点单指群众选择志愿者团队的志愿活动&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;pointerEvents=1;strokeColor=default;fontColor=default;" vertex="1" parent="PWN6N76G5UAPGbaR_pDu-2">
+          <mxGeometry x="51" width="179" height="40" as="geometry">
+            <mxRectangle width="179" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PWN6N76G5UAPGbaR_pDu-5" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=1;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="PWN6N76G5UAPGbaR_pDu-1">
+          <mxGeometry y="70" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PWN6N76G5UAPGbaR_pDu-6" value="2" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="PWN6N76G5UAPGbaR_pDu-5">
+          <mxGeometry width="51" height="60" as="geometry">
+            <mxRectangle width="51" height="60" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PWN6N76G5UAPGbaR_pDu-7" value="&lt;span&gt;志愿者团队的账号才能进行点单服务，完成一个点单服务，c端用户才能接志愿团队的单&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;pointerEvents=1;strokeColor=default;fontColor=default;" vertex="1" parent="PWN6N76G5UAPGbaR_pDu-5">
+          <mxGeometry x="51" width="179" height="60" as="geometry">
+            <mxRectangle width="179" height="60" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PWN6N76G5UAPGbaR_pDu-8" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=1;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="PWN6N76G5UAPGbaR_pDu-1">
+          <mxGeometry y="130" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PWN6N76G5UAPGbaR_pDu-9" value="3" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="PWN6N76G5UAPGbaR_pDu-8">
+          <mxGeometry width="51" height="40" as="geometry">
+            <mxRectangle width="51" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PWN6N76G5UAPGbaR_pDu-10" value="群众点单后，团队管理员可以对用户选择性接单" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;pointerEvents=1;strokeColor=default;fontColor=default;" vertex="1" parent="PWN6N76G5UAPGbaR_pDu-8">
+          <mxGeometry x="51" width="179" height="40" as="geometry">
+            <mxRectangle width="179" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PWN6N76G5UAPGbaR_pDu-15" value="C端" style="swimlane;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="290" y="40" width="430" height="640" as="geometry" />
+        </mxCell>
+        <mxCell id="PWN6N76G5UAPGbaR_pDu-16" value="B端" style="swimlane;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="720" y="40" width="420" height="640" as="geometry" />
+        </mxCell>
+        <mxCell id="PWN6N76G5UAPGbaR_pDu-17" value="C端" style="swimlane;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="40" width="420" height="640" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
