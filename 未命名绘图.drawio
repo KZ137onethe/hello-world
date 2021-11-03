@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-03T02:16:22.648Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="x0IgK47WqjkIdLI4HqVr" version="15.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-03T02:55:18.110Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="9Z_AkRxEkRbGbdjRO_a7" version="15.6.6" type="github">
   <diagram id="AXBYRpy8WyjKm1C0F52a" name="第 1 页">
     <mxGraphModel dx="1422" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -49,11 +49,96 @@
         <mxCell id="PWN6N76G5UAPGbaR_pDu-15" value="C端" style="swimlane;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="290" y="40" width="430" height="640" as="geometry" />
         </mxCell>
+        <mxCell id="PWN6N76G5UAPGbaR_pDu-30" value="群众点单" style="rounded=0;whiteSpace=wrap;html=1;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="PWN6N76G5UAPGbaR_pDu-15">
+          <mxGeometry x="255" y="280" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PWN6N76G5UAPGbaR_pDu-31" value="实名注册用户" style="rounded=0;whiteSpace=wrap;html=1;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="PWN6N76G5UAPGbaR_pDu-15">
+          <mxGeometry x="250" y="120" width="120" height="40" as="geometry" />
+        </mxCell>
         <mxCell id="PWN6N76G5UAPGbaR_pDu-16" value="B端" style="swimlane;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="720" y="40" width="420" height="640" as="geometry" />
         </mxCell>
-        <mxCell id="PWN6N76G5UAPGbaR_pDu-17" value="C端" style="swimlane;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="1">
+        <mxCell id="PWN6N76G5UAPGbaR_pDu-26" value="点单服务管理" style="rounded=0;whiteSpace=wrap;html=1;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="PWN6N76G5UAPGbaR_pDu-16">
+          <mxGeometry x="250" y="100" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PWN6N76G5UAPGbaR_pDu-28" value="" style="endArrow=classic;html=1;rounded=0;labelBackgroundColor=default;fontColor=default;strokeColor=default;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=default;" edge="1" parent="PWN6N76G5UAPGbaR_pDu-16" source="PWN6N76G5UAPGbaR_pDu-40" target="PWN6N76G5UAPGbaR_pDu-26">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="305" y="80" as="sourcePoint" />
+            <mxPoint x="160" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PWN6N76G5UAPGbaR_pDu-34" value="发布服务" style="rounded=0;whiteSpace=wrap;html=1;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="PWN6N76G5UAPGbaR_pDu-16">
+          <mxGeometry x="250" y="150" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PWN6N76G5UAPGbaR_pDu-35" value="" style="endArrow=classic;html=1;rounded=0;labelBackgroundColor=default;fontColor=default;strokeColor=default;fillColor=default;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="PWN6N76G5UAPGbaR_pDu-16" source="PWN6N76G5UAPGbaR_pDu-26" target="PWN6N76G5UAPGbaR_pDu-34">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="110" y="280" as="sourcePoint" />
+            <mxPoint x="160" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PWN6N76G5UAPGbaR_pDu-37" value="服务审核" style="rounded=0;whiteSpace=wrap;html=1;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="PWN6N76G5UAPGbaR_pDu-16">
+          <mxGeometry x="250" y="200" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PWN6N76G5UAPGbaR_pDu-39" value="" style="endArrow=classic;html=1;rounded=0;labelBackgroundColor=default;fontColor=default;strokeColor=default;fillColor=default;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="PWN6N76G5UAPGbaR_pDu-16" source="PWN6N76G5UAPGbaR_pDu-34" target="PWN6N76G5UAPGbaR_pDu-37">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="110" y="280" as="sourcePoint" />
+            <mxPoint x="160" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PWN6N76G5UAPGbaR_pDu-40" value="团队管理员" style="rounded=0;whiteSpace=wrap;html=1;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="PWN6N76G5UAPGbaR_pDu-16">
+          <mxGeometry x="245" y="40" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PWN6N76G5UAPGbaR_pDu-41" value="审核通过" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#82b366;fillColor=#d5e8d4;fontColor=default;" vertex="1" parent="PWN6N76G5UAPGbaR_pDu-16">
+          <mxGeometry x="210" y="260" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PWN6N76G5UAPGbaR_pDu-42" value="拒绝" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#b85450;fillColor=#f8cecc;fontColor=default;" vertex="1" parent="PWN6N76G5UAPGbaR_pDu-16">
+          <mxGeometry x="320" y="260" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PWN6N76G5UAPGbaR_pDu-45" value="" style="endArrow=classic;html=1;rounded=0;labelBackgroundColor=default;fontColor=default;strokeColor=#82b366;fillColor=#d5e8d4;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" edge="1" parent="PWN6N76G5UAPGbaR_pDu-16" source="PWN6N76G5UAPGbaR_pDu-37" target="PWN6N76G5UAPGbaR_pDu-41">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="110" y="340" as="sourcePoint" />
+            <mxPoint x="160" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PWN6N76G5UAPGbaR_pDu-46" value="" style="endArrow=classic;html=1;rounded=0;labelBackgroundColor=default;fontColor=default;strokeColor=#b85450;fillColor=#f8cecc;curved=1;exitX=0.682;exitY=1.067;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="PWN6N76G5UAPGbaR_pDu-16" source="PWN6N76G5UAPGbaR_pDu-37" target="PWN6N76G5UAPGbaR_pDu-42">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="110" y="340" as="sourcePoint" />
+            <mxPoint x="160" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PWN6N76G5UAPGbaR_pDu-17" value="P端" style="swimlane;fontColor=default;strokeColor=default;fillColor=default;startSize=23;" vertex="1" parent="1">
           <mxGeometry x="1140" y="40" width="420" height="640" as="geometry" />
+        </mxCell>
+        <mxCell id="PWN6N76G5UAPGbaR_pDu-18" value="新时代文明实践中心" style="rounded=0;whiteSpace=wrap;html=1;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="PWN6N76G5UAPGbaR_pDu-17">
+          <mxGeometry x="150" y="50" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PWN6N76G5UAPGbaR_pDu-20" value="服务类型管理" style="rounded=0;whiteSpace=wrap;html=1;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="PWN6N76G5UAPGbaR_pDu-17">
+          <mxGeometry x="155" y="110" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PWN6N76G5UAPGbaR_pDu-21" value="创建服务类型" style="rounded=0;whiteSpace=wrap;html=1;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="PWN6N76G5UAPGbaR_pDu-17">
+          <mxGeometry x="155" y="170" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PWN6N76G5UAPGbaR_pDu-23" value="" style="endArrow=classic;html=1;rounded=0;labelBackgroundColor=default;fontColor=default;strokeColor=default;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="PWN6N76G5UAPGbaR_pDu-17" source="PWN6N76G5UAPGbaR_pDu-18" target="PWN6N76G5UAPGbaR_pDu-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-310" y="340" as="sourcePoint" />
+            <mxPoint x="-260" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PWN6N76G5UAPGbaR_pDu-24" value="" style="endArrow=classic;html=1;rounded=0;labelBackgroundColor=default;fontColor=default;strokeColor=default;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="PWN6N76G5UAPGbaR_pDu-17" source="PWN6N76G5UAPGbaR_pDu-20" target="PWN6N76G5UAPGbaR_pDu-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-310" y="340" as="sourcePoint" />
+            <mxPoint x="-260" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PWN6N76G5UAPGbaR_pDu-25" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;labelBackgroundColor=default;fontColor=default;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endFill=0;startArrow=classicThin;startFill=1;" edge="1" parent="1" source="PWN6N76G5UAPGbaR_pDu-26" target="PWN6N76G5UAPGbaR_pDu-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1070" y="225" as="sourcePoint" />
+            <mxPoint x="880" y="330" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1160" y="155" />
+              <mxPoint x="1160" y="225" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
