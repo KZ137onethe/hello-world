@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-03T09:35:08.483Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="H32Zeoo2r9ZUfEOmHkjk" version="15.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-04T01:21:22.823Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="H4bZ4NwVLz_uYDY85-B8" version="15.6.6" type="github">
   <diagram id="AXBYRpy8WyjKm1C0F52a" name="第 1 页">
     <mxGraphModel dx="1422" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -257,7 +257,7 @@
         <mxCell id="PWN6N76G5UAPGbaR_pDu-118" value="机构管理" style="rounded=0;whiteSpace=wrap;html=1;fontColor=default;strokeColor=default;fillColor=default;" parent="PWN6N76G5UAPGbaR_pDu-17" vertex="1">
           <mxGeometry x="250" y="100" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="PWN6N76G5UAPGbaR_pDu-119" value="创建志愿者团队" style="rounded=0;whiteSpace=wrap;html=1;fontColor=default;strokeColor=default;fillColor=default;" parent="PWN6N76G5UAPGbaR_pDu-17" vertex="1">
+        <mxCell id="PWN6N76G5UAPGbaR_pDu-119" value="申请志愿者团队" style="rounded=0;whiteSpace=wrap;html=1;fontColor=default;strokeColor=default;fillColor=default;" parent="PWN6N76G5UAPGbaR_pDu-17" vertex="1">
           <mxGeometry x="255" y="160" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PWN6N76G5UAPGbaR_pDu-120" value="" style="endArrow=classic;html=1;rounded=0;labelBackgroundColor=default;fontSize=14;fontColor=default;strokeColor=default;strokeWidth=1;fillColor=default;elbow=vertical;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="PWN6N76G5UAPGbaR_pDu-17" source="PWN6N76G5UAPGbaR_pDu-118" target="PWN6N76G5UAPGbaR_pDu-119" edge="1">
@@ -265,6 +265,9 @@
             <mxPoint x="170" y="360" as="sourcePoint" />
             <mxPoint x="220" y="310" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="3gxJq8yPG5kvhwYnfK5U-2" value="志愿队管理" style="rounded=0;whiteSpace=wrap;html=1;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="PWN6N76G5UAPGbaR_pDu-17">
+          <mxGeometry x="255" y="220" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PWN6N76G5UAPGbaR_pDu-60" value="" style="endArrow=classic;html=1;rounded=0;labelBackgroundColor=default;fontSize=14;fontColor=default;strokeColor=default;fillColor=default;elbow=vertical;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" parent="1" source="PWN6N76G5UAPGbaR_pDu-21" target="PWN6N76G5UAPGbaR_pDu-40" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -315,14 +318,20 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PWN6N76G5UAPGbaR_pDu-121" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;labelBackgroundColor=default;fontSize=14;fontColor=default;fillColor=default;elbow=vertical;strokeColor=#FF0000;" parent="1" edge="1">
+        <mxCell id="PWN6N76G5UAPGbaR_pDu-121" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;labelBackgroundColor=default;fontSize=14;fontColor=default;fillColor=default;elbow=vertical;strokeColor=#FF0000;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" edge="1" source="3gxJq8yPG5kvhwYnfK5U-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1250" y="430" as="sourcePoint" />
             <mxPoint x="400" y="370" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1250" y="340" />
-              <mxPoint x="400" y="340" />
+              <mxPoint x="1450" y="350" />
+              <mxPoint x="400" y="350" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3gxJq8yPG5kvhwYnfK5U-1" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=default;labelBackgroundColor=default;fontColor=default;" edge="1" parent="1" source="PWN6N76G5UAPGbaR_pDu-119">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="960" y="420" as="sourcePoint" />
+            <mxPoint x="1450" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
