@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-05T05:20:26.171Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="YqR2ck1bMkxUjtegMGBD" version="15.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-05T05:25:51.915Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="AV_42ySyyOJNw0aNQZvg" version="15.6.8" type="github">
   <diagram id="ZC5p5VC0Y0RsRYnaukDD" name="第 1 页">
     <mxGraphModel dx="1422" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -16,28 +16,37 @@
         <mxCell id="huGk5qr_uN4y3jjxr1eP-9" value="申请团队" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="huGk5qr_uN4y3jjxr1eP-8">
           <mxGeometry x="130" y="80" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="huGk5qr_uN4y3jjxr1eP-10" value="志愿队审核" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="huGk5qr_uN4y3jjxr1eP-8">
-          <mxGeometry x="130" y="140" width="120" height="40" as="geometry" />
+        <mxCell id="huGk5qr_uN4y3jjxr1eP-19" value="志愿队管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="huGk5qr_uN4y3jjxr1eP-8">
+          <mxGeometry x="130" y="150" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="huGk5qr_uN4y3jjxr1eP-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="huGk5qr_uN4y3jjxr1eP-8" source="huGk5qr_uN4y3jjxr1eP-9" target="huGk5qr_uN4y3jjxr1eP-10">
+        <mxCell id="huGk5qr_uN4y3jjxr1eP-20" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="huGk5qr_uN4y3jjxr1eP-8" source="huGk5qr_uN4y3jjxr1eP-9" target="huGk5qr_uN4y3jjxr1eP-19">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-20" y="240" as="sourcePoint" />
-            <mxPoint x="30" y="190" as="targetPoint" />
+            <mxPoint x="-80" y="290" as="sourcePoint" />
+            <mxPoint x="-30" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="huGk5qr_uN4y3jjxr1eP-12" value="通过" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="huGk5qr_uN4y3jjxr1eP-8">
-          <mxGeometry x="150" y="200" width="80" height="50" as="geometry" />
+        <mxCell id="huGk5qr_uN4y3jjxr1eP-22" value="志愿队审核" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="huGk5qr_uN4y3jjxr1eP-8">
+          <mxGeometry x="90" y="230" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="huGk5qr_uN4y3jjxr1eP-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="huGk5qr_uN4y3jjxr1eP-8" source="huGk5qr_uN4y3jjxr1eP-10" target="huGk5qr_uN4y3jjxr1eP-12">
+        <mxCell id="huGk5qr_uN4y3jjxr1eP-23" value="志愿队信息编辑" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="huGk5qr_uN4y3jjxr1eP-8">
+          <mxGeometry x="210" y="230" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="huGk5qr_uN4y3jjxr1eP-24" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="huGk5qr_uN4y3jjxr1eP-8" source="huGk5qr_uN4y3jjxr1eP-19" target="huGk5qr_uN4y3jjxr1eP-22">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-270" y="240" as="sourcePoint" />
-            <mxPoint x="-220" y="190" as="targetPoint" />
+            <mxPoint x="-80" y="290" as="sourcePoint" />
+            <mxPoint x="-30" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="huGk5qr_uN4y3jjxr1eP-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="huGk5qr_uN4y3jjxr1eP-12">
+        <mxCell id="huGk5qr_uN4y3jjxr1eP-25" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="huGk5qr_uN4y3jjxr1eP-8" source="huGk5qr_uN4y3jjxr1eP-19" target="huGk5qr_uN4y3jjxr1eP-23">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="690" y="320" as="sourcePoint" />
-            <mxPoint x="940" y="305" as="targetPoint" />
+            <mxPoint x="-80" y="290" as="sourcePoint" />
+            <mxPoint x="-30" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="huGk5qr_uN4y3jjxr1eP-26" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="huGk5qr_uN4y3jjxr1eP-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="880" y="370" as="sourcePoint" />
+            <mxPoint x="920" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
