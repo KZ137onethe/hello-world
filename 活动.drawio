@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-05T09:11:13.108Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="cW4OTsulx6qee3KOyPNZ" version="15.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-05T09:15:51.936Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="8cO68O1BzFsF9sC-6As5" version="15.6.8" type="github">
   <diagram id="qpCgczyUxhtcVtG9j94T" name="第 1 页">
     <mxGraphModel dx="1422" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -10,8 +10,8 @@
         <mxCell id="KroNpoQIzIgqycC2E6Yz-63" value="活动" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="KroNpoQIzIgqycC2E6Yz-1">
           <mxGeometry x="290" y="130" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="KroNpoQIzIgqycC2E6Yz-64" value="志愿者" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="KroNpoQIzIgqycC2E6Yz-1">
-          <mxGeometry x="290" y="50" width="120" height="40" as="geometry" />
+        <mxCell id="KroNpoQIzIgqycC2E6Yz-64" value="志愿者/志愿者团队管理员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="KroNpoQIzIgqycC2E6Yz-1">
+          <mxGeometry x="270" y="50" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KroNpoQIzIgqycC2E6Yz-65" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#000000;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="KroNpoQIzIgqycC2E6Yz-1" source="KroNpoQIzIgqycC2E6Yz-64" target="KroNpoQIzIgqycC2E6Yz-63">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -52,7 +52,7 @@
         <mxCell id="KroNpoQIzIgqycC2E6Yz-3" value="B端" style="swimlane;" vertex="1" parent="1">
           <mxGeometry x="680" y="100" width="500" height="940" as="geometry" />
         </mxCell>
-        <mxCell id="KroNpoQIzIgqycC2E6Yz-6" value="志愿者团队管理员/负责人" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="KroNpoQIzIgqycC2E6Yz-3">
+        <mxCell id="KroNpoQIzIgqycC2E6Yz-6" value="所站点管理员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="KroNpoQIzIgqycC2E6Yz-3">
           <mxGeometry x="285" y="70" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KroNpoQIzIgqycC2E6Yz-7" value="创建文明实践活动" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="KroNpoQIzIgqycC2E6Yz-3">
