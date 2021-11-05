@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-05T07:54:50.364Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="YFKefLwo7mh0P7Ypp1iz" version="15.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-05T07:59:28.022Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="6zLgek9HQNJ25xyF4MwM" version="15.6.8" type="github">
   <diagram id="qpCgczyUxhtcVtG9j94T" name="第 1 页">
     <mxGraphModel dx="1422" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -64,8 +64,38 @@
         <mxCell id="KroNpoQIzIgqycC2E6Yz-5" value="创建志愿者团队" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="KroNpoQIzIgqycC2E6Yz-4">
           <mxGeometry x="70" y="70" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="KroNpoQIzIgqycC2E6Yz-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="KroNpoQIzIgqycC2E6Yz-4">
+        <mxCell id="KroNpoQIzIgqycC2E6Yz-19" value="新时代文明实践" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="KroNpoQIzIgqycC2E6Yz-4">
           <mxGeometry x="290" y="70" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KroNpoQIzIgqycC2E6Yz-21" value="审核管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="KroNpoQIzIgqycC2E6Yz-4">
+          <mxGeometry x="290" y="150" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KroNpoQIzIgqycC2E6Yz-22" value="活动审核" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="KroNpoQIzIgqycC2E6Yz-4">
+          <mxGeometry x="310" y="230" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KroNpoQIzIgqycC2E6Yz-23" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="KroNpoQIzIgqycC2E6Yz-4" source="KroNpoQIzIgqycC2E6Yz-21" target="KroNpoQIzIgqycC2E6Yz-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="20" y="310" as="sourcePoint" />
+            <mxPoint x="70" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KroNpoQIzIgqycC2E6Yz-24" value="中心审核" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="KroNpoQIzIgqycC2E6Yz-4">
+          <mxGeometry x="270" y="290" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KroNpoQIzIgqycC2E6Yz-25" value="无需审核" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="KroNpoQIzIgqycC2E6Yz-4">
+          <mxGeometry x="360" y="290" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KroNpoQIzIgqycC2E6Yz-26" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="KroNpoQIzIgqycC2E6Yz-4" source="KroNpoQIzIgqycC2E6Yz-22" target="KroNpoQIzIgqycC2E6Yz-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="20" y="410" as="sourcePoint" />
+            <mxPoint x="70" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KroNpoQIzIgqycC2E6Yz-27" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="KroNpoQIzIgqycC2E6Yz-4" source="KroNpoQIzIgqycC2E6Yz-22" target="KroNpoQIzIgqycC2E6Yz-25">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="20" y="410" as="sourcePoint" />
+            <mxPoint x="70" y="360" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="KroNpoQIzIgqycC2E6Yz-18" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="KroNpoQIzIgqycC2E6Yz-7" target="KroNpoQIzIgqycC2E6Yz-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -74,6 +104,12 @@
             <Array as="points">
               <mxPoint x="1310" y="260" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KroNpoQIzIgqycC2E6Yz-20" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="KroNpoQIzIgqycC2E6Yz-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1200" y="410" as="sourcePoint" />
+            <mxPoint x="1530" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
