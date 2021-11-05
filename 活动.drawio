@@ -1,100 +1,94 @@
-<mxfile host="app.diagrams.net" modified="2021-11-05T07:59:28.022Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="6zLgek9HQNJ25xyF4MwM" version="15.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-05T08:23:23.966Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="rBUVxBK14dAsananXYCH" version="15.6.8" type="github">
   <diagram id="qpCgczyUxhtcVtG9j94T" name="第 1 页">
     <mxGraphModel dx="1422" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="KroNpoQIzIgqycC2E6Yz-1" value="C端" style="swimlane;" vertex="1" parent="1">
-          <mxGeometry x="180" y="100" width="500" height="680" as="geometry" />
+          <mxGeometry x="180" y="100" width="500" height="740" as="geometry" />
         </mxCell>
         <mxCell id="KroNpoQIzIgqycC2E6Yz-3" value="B端" style="swimlane;" vertex="1" parent="1">
-          <mxGeometry x="680" y="100" width="500" height="680" as="geometry" />
+          <mxGeometry x="680" y="100" width="500" height="740" as="geometry" />
         </mxCell>
         <mxCell id="KroNpoQIzIgqycC2E6Yz-6" value="志愿者团队管理员/负责人" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="KroNpoQIzIgqycC2E6Yz-3">
-          <mxGeometry x="290" y="70" width="150" height="40" as="geometry" />
+          <mxGeometry x="285" y="70" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KroNpoQIzIgqycC2E6Yz-7" value="创建文明实践活动" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="KroNpoQIzIgqycC2E6Yz-3">
-          <mxGeometry x="305" y="140" width="120" height="40" as="geometry" />
+          <mxGeometry x="300" y="140" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KroNpoQIzIgqycC2E6Yz-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="KroNpoQIzIgqycC2E6Yz-3" source="KroNpoQIzIgqycC2E6Yz-6" target="KroNpoQIzIgqycC2E6Yz-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="210" y="410" as="sourcePoint" />
-            <mxPoint x="260" y="360" as="targetPoint" />
+            <mxPoint x="205" y="410" as="sourcePoint" />
+            <mxPoint x="255" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KroNpoQIzIgqycC2E6Yz-9" value="基本信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="KroNpoQIzIgqycC2E6Yz-3">
-          <mxGeometry x="330" y="210" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="KroNpoQIzIgqycC2E6Yz-10" value="招募设置" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="KroNpoQIzIgqycC2E6Yz-3">
-          <mxGeometry x="330" y="270" width="70" height="30" as="geometry" />
+          <mxGeometry x="315" y="220" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KroNpoQIzIgqycC2E6Yz-11" value="公示设置" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="KroNpoQIzIgqycC2E6Yz-3">
-          <mxGeometry x="330" y="325" width="70" height="30" as="geometry" />
+          <mxGeometry x="315" y="380" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KroNpoQIzIgqycC2E6Yz-12" value="签到设置" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="KroNpoQIzIgqycC2E6Yz-3">
-          <mxGeometry x="330" y="380" width="70" height="30" as="geometry" />
+          <mxGeometry x="315" y="462" width="90" height="45" as="geometry" />
         </mxCell>
         <mxCell id="KroNpoQIzIgqycC2E6Yz-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="KroNpoQIzIgqycC2E6Yz-3" source="KroNpoQIzIgqycC2E6Yz-7" target="KroNpoQIzIgqycC2E6Yz-9">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="210" y="410" as="sourcePoint" />
-            <mxPoint x="260" y="360" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="KroNpoQIzIgqycC2E6Yz-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="KroNpoQIzIgqycC2E6Yz-3" source="KroNpoQIzIgqycC2E6Yz-9" target="KroNpoQIzIgqycC2E6Yz-10">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="210" y="410" as="sourcePoint" />
-            <mxPoint x="260" y="360" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="KroNpoQIzIgqycC2E6Yz-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="KroNpoQIzIgqycC2E6Yz-3" source="KroNpoQIzIgqycC2E6Yz-10" target="KroNpoQIzIgqycC2E6Yz-11">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="210" y="410" as="sourcePoint" />
-            <mxPoint x="260" y="360" as="targetPoint" />
+            <mxPoint x="205" y="410" as="sourcePoint" />
+            <mxPoint x="255" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KroNpoQIzIgqycC2E6Yz-16" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="KroNpoQIzIgqycC2E6Yz-3" source="KroNpoQIzIgqycC2E6Yz-11" target="KroNpoQIzIgqycC2E6Yz-12">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="210" y="410" as="sourcePoint" />
-            <mxPoint x="260" y="360" as="targetPoint" />
+            <mxPoint x="205" y="485" as="sourcePoint" />
+            <mxPoint x="255" y="435" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KroNpoQIzIgqycC2E6Yz-32" value="发布活动" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="KroNpoQIzIgqycC2E6Yz-3">
+          <mxGeometry x="300" y="540" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KroNpoQIzIgqycC2E6Yz-33" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="KroNpoQIzIgqycC2E6Yz-3" source="KroNpoQIzIgqycC2E6Yz-12" target="KroNpoQIzIgqycC2E6Yz-32">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="430" as="sourcePoint" />
+            <mxPoint x="190" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KroNpoQIzIgqycC2E6Yz-4" value="P端" style="swimlane;" vertex="1" parent="1">
-          <mxGeometry x="1180" y="100" width="500" height="680" as="geometry" />
+          <mxGeometry x="1180" y="100" width="660" height="740" as="geometry" />
         </mxCell>
         <mxCell id="KroNpoQIzIgqycC2E6Yz-5" value="创建志愿者团队" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="KroNpoQIzIgqycC2E6Yz-4">
           <mxGeometry x="70" y="70" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KroNpoQIzIgqycC2E6Yz-19" value="新时代文明实践" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="KroNpoQIzIgqycC2E6Yz-4">
-          <mxGeometry x="290" y="70" width="120" height="40" as="geometry" />
+          <mxGeometry x="290" y="50" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KroNpoQIzIgqycC2E6Yz-21" value="审核管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="KroNpoQIzIgqycC2E6Yz-4">
-          <mxGeometry x="290" y="150" width="120" height="40" as="geometry" />
+          <mxGeometry x="290" y="130" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KroNpoQIzIgqycC2E6Yz-22" value="活动审核" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="KroNpoQIzIgqycC2E6Yz-4">
-          <mxGeometry x="310" y="230" width="80" height="40" as="geometry" />
+          <mxGeometry x="310" y="210" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KroNpoQIzIgqycC2E6Yz-23" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="KroNpoQIzIgqycC2E6Yz-4" source="KroNpoQIzIgqycC2E6Yz-21" target="KroNpoQIzIgqycC2E6Yz-22">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="20" y="310" as="sourcePoint" />
-            <mxPoint x="70" y="260" as="targetPoint" />
+            <mxPoint x="20" y="290" as="sourcePoint" />
+            <mxPoint x="70" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KroNpoQIzIgqycC2E6Yz-24" value="中心审核" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="KroNpoQIzIgqycC2E6Yz-4">
-          <mxGeometry x="270" y="290" width="70" height="40" as="geometry" />
+          <mxGeometry x="270" y="270" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KroNpoQIzIgqycC2E6Yz-25" value="无需审核" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="KroNpoQIzIgqycC2E6Yz-4">
-          <mxGeometry x="360" y="290" width="70" height="40" as="geometry" />
+          <mxGeometry x="360" y="270" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KroNpoQIzIgqycC2E6Yz-26" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="KroNpoQIzIgqycC2E6Yz-4" source="KroNpoQIzIgqycC2E6Yz-22" target="KroNpoQIzIgqycC2E6Yz-24">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="20" y="410" as="sourcePoint" />
-            <mxPoint x="70" y="360" as="targetPoint" />
+            <mxPoint x="20" y="390" as="sourcePoint" />
+            <mxPoint x="70" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KroNpoQIzIgqycC2E6Yz-27" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="KroNpoQIzIgqycC2E6Yz-4" source="KroNpoQIzIgqycC2E6Yz-22" target="KroNpoQIzIgqycC2E6Yz-25">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="20" y="410" as="sourcePoint" />
-            <mxPoint x="70" y="360" as="targetPoint" />
+            <mxPoint x="20" y="390" as="sourcePoint" />
+            <mxPoint x="70" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KroNpoQIzIgqycC2E6Yz-18" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="KroNpoQIzIgqycC2E6Yz-7" target="KroNpoQIzIgqycC2E6Yz-5">
@@ -106,10 +100,32 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="KroNpoQIzIgqycC2E6Yz-20" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="KroNpoQIzIgqycC2E6Yz-19">
+        <mxCell id="KroNpoQIzIgqycC2E6Yz-20" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" edge="1" parent="1" source="KroNpoQIzIgqycC2E6Yz-19">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1200" y="410" as="sourcePoint" />
-            <mxPoint x="1530" y="250" as="targetPoint" />
+            <mxPoint x="1200" y="390" as="sourcePoint" />
+            <mxPoint x="1530" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KroNpoQIzIgqycC2E6Yz-31" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#e1d5e7;strokeColor=#9673a6;startArrow=none;" edge="1" parent="1" source="KroNpoQIzIgqycC2E6Yz-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1200" y="530" as="sourcePoint" />
+            <mxPoint x="1040" y="420" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KroNpoQIzIgqycC2E6Yz-10" value="招募设置" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="995" y="400" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KroNpoQIzIgqycC2E6Yz-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="KroNpoQIzIgqycC2E6Yz-9" target="KroNpoQIzIgqycC2E6Yz-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="885" y="510" as="sourcePoint" />
+            <mxPoint x="935" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KroNpoQIzIgqycC2E6Yz-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KroNpoQIzIgqycC2E6Yz-10" target="KroNpoQIzIgqycC2E6Yz-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="885" y="540" as="sourcePoint" />
+            <mxPoint x="935" y="490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
