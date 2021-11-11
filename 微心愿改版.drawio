@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-11T09:00:26.269Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="G_C9zDIYSf3x_W0nmP4m" version="15.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-11T10:07:41.526Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="XqB13nYKDRbrM70b4YJn" version="15.7.1" type="github">
   <diagram id="3Zdumfhe-f5hq_ZNzXjN" name="第 1 页">
-    <mxGraphModel dx="1185" dy="634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -552,6 +552,87 @@
               <mxPoint x="1780" y="860" />
               <mxPoint x="1059" y="860" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rj2mn8werOWWxse8iK5x-12" value="业务" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="620" width="210" height="416" as="geometry" />
+        </mxCell>
+        <mxCell id="Rj2mn8werOWWxse8iK5x-13" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=1;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Rj2mn8werOWWxse8iK5x-12">
+          <mxGeometry y="30" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Rj2mn8werOWWxse8iK5x-14" value="1" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="Rj2mn8werOWWxse8iK5x-13">
+          <mxGeometry width="47" height="30" as="geometry">
+            <mxRectangle width="47" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rj2mn8werOWWxse8iK5x-15" value="认领微心愿后用户能取消微心愿吗？ &lt;font color=&quot;#ff0000&quot;&gt;不能&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;pointerEvents=1;" vertex="1" parent="Rj2mn8werOWWxse8iK5x-13">
+          <mxGeometry x="47" width="163" height="30" as="geometry">
+            <mxRectangle width="163" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rj2mn8werOWWxse8iK5x-16" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=1;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Rj2mn8werOWWxse8iK5x-12">
+          <mxGeometry y="60" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Rj2mn8werOWWxse8iK5x-17" value="2" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="Rj2mn8werOWWxse8iK5x-16">
+          <mxGeometry width="47" height="60" as="geometry">
+            <mxRectangle width="47" height="60" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rj2mn8werOWWxse8iK5x-18" value="志愿者认领微心愿后会创建一个微心愿" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;pointerEvents=1;" vertex="1" parent="Rj2mn8werOWWxse8iK5x-16">
+          <mxGeometry x="47" width="163" height="60" as="geometry">
+            <mxRectangle width="163" height="60" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rj2mn8werOWWxse8iK5x-19" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=1;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Rj2mn8werOWWxse8iK5x-12">
+          <mxGeometry y="120" width="210" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="Rj2mn8werOWWxse8iK5x-20" value="3" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="Rj2mn8werOWWxse8iK5x-19">
+          <mxGeometry width="47" height="62" as="geometry">
+            <mxRectangle width="47" height="62" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rj2mn8werOWWxse8iK5x-21" value="志愿者完成微心愿，用户评价和不评价&lt;br&gt;&lt;font color=&quot;#ff0000&quot;&gt;上级机构统一审核，评定文明分&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;pointerEvents=1;" vertex="1" parent="Rj2mn8werOWWxse8iK5x-19">
+          <mxGeometry x="47" width="163" height="62" as="geometry">
+            <mxRectangle width="163" height="62" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rj2mn8werOWWxse8iK5x-22" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=1;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Rj2mn8werOWWxse8iK5x-12">
+          <mxGeometry y="182" width="210" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="Rj2mn8werOWWxse8iK5x-23" value="4" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="Rj2mn8werOWWxse8iK5x-22">
+          <mxGeometry width="47" height="58" as="geometry">
+            <mxRectangle width="47" height="58" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rj2mn8werOWWxse8iK5x-24" value="P端的微心愿审核指的是：人工审核还是AI审核&amp;nbsp; &lt;br&gt;&lt;font color=&quot;#ff0000&quot;&gt;P端没有微心愿审核&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;pointerEvents=1;" vertex="1" parent="Rj2mn8werOWWxse8iK5x-22">
+          <mxGeometry x="47" width="163" height="58" as="geometry">
+            <mxRectangle width="163" height="58" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rj2mn8werOWWxse8iK5x-25" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=1;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Rj2mn8werOWWxse8iK5x-12">
+          <mxGeometry y="240" width="210" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="Rj2mn8werOWWxse8iK5x-26" value="5" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="Rj2mn8werOWWxse8iK5x-25">
+          <mxGeometry width="47" height="58" as="geometry">
+            <mxRectangle width="47" height="58" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rj2mn8werOWWxse8iK5x-27" value="微心愿参与的志愿者可能有多人" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;pointerEvents=1;" vertex="1" parent="Rj2mn8werOWWxse8iK5x-25">
+          <mxGeometry x="47" width="163" height="58" as="geometry">
+            <mxRectangle width="163" height="58" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rj2mn8werOWWxse8iK5x-28" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=1;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Rj2mn8werOWWxse8iK5x-12">
+          <mxGeometry y="298" width="210" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="Rj2mn8werOWWxse8iK5x-29" value="6" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="Rj2mn8werOWWxse8iK5x-28">
+          <mxGeometry width="47" height="58" as="geometry">
+            <mxRectangle width="47" height="58" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rj2mn8werOWWxse8iK5x-30" value="文明实践中心缺少微心愿管理&lt;br&gt;&lt;font color=&quot;#ff0000&quot;&gt;未添加&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;pointerEvents=1;" vertex="1" parent="Rj2mn8werOWWxse8iK5x-28">
+          <mxGeometry x="47" width="163" height="58" as="geometry">
+            <mxRectangle width="163" height="58" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
       </root>
