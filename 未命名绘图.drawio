@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-12T06:46:39.661Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="2ToCfoKP4UWYQrlwN4_z" version="15.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-12T06:49:39.305Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="9hO8I8CrAcRssycK0Pd0" version="15.7.3" type="github">
   <diagram id="AXBYRpy8WyjKm1C0F52a" name="第 1 页">
     <mxGraphModel dx="1185" dy="634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -174,15 +174,15 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="PWN6N76G5UAPGbaR_pDu-16" value="B端" style="swimlane;fontColor=default;strokeColor=default;fillColor=default;" parent="1" vertex="1">
-          <mxGeometry x="720" y="40" width="420" height="900" as="geometry" />
+          <mxGeometry x="720" y="40" width="570" height="900" as="geometry" />
         </mxCell>
         <mxCell id="PWN6N76G5UAPGbaR_pDu-26" value="点单服务管理" style="rounded=0;whiteSpace=wrap;html=1;fontColor=default;strokeColor=default;fillColor=default;" parent="PWN6N76G5UAPGbaR_pDu-16" vertex="1">
           <mxGeometry x="250" y="560" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PWN6N76G5UAPGbaR_pDu-28" value="" style="endArrow=classic;html=1;rounded=0;labelBackgroundColor=default;fontColor=default;strokeColor=default;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=default;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="PWN6N76G5UAPGbaR_pDu-16" source="PWN6N76G5UAPGbaR_pDu-40" target="PWN6N76G5UAPGbaR_pDu-26" edge="1">
+        <mxCell id="PWN6N76G5UAPGbaR_pDu-28" value="" style="endArrow=classic;html=1;rounded=0;labelBackgroundColor=default;fontColor=default;strokeColor=default;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=default;" parent="PWN6N76G5UAPGbaR_pDu-16" source="PWN6N76G5UAPGbaR_pDu-40" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="305" y="260" as="sourcePoint" />
-            <mxPoint x="160" y="410" as="targetPoint" />
+            <mxPoint x="305" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PWN6N76G5UAPGbaR_pDu-34" value="发布服务" style="rounded=0;whiteSpace=wrap;html=1;fontColor=default;strokeColor=default;fillColor=default;" parent="PWN6N76G5UAPGbaR_pDu-16" vertex="1">
@@ -278,8 +278,14 @@
             <mxPoint x="190" y="690" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="dtT30e8A55jLNwX_KmDu-3" value="点单服务" style="rounded=0;whiteSpace=wrap;html=1;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="PWN6N76G5UAPGbaR_pDu-16">
+          <mxGeometry x="250" y="310" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dtT30e8A55jLNwX_KmDu-4" value="上级文明实践机构" style="rounded=0;whiteSpace=wrap;html=1;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="PWN6N76G5UAPGbaR_pDu-16">
+          <mxGeometry x="400" y="130" width="120" height="40" as="geometry" />
+        </mxCell>
         <mxCell id="PWN6N76G5UAPGbaR_pDu-17" value="P端" style="swimlane;fontColor=default;strokeColor=default;fillColor=default;startSize=23;" parent="1" vertex="1">
-          <mxGeometry x="1140" y="40" width="420" height="900" as="geometry" />
+          <mxGeometry x="1290" y="40" width="420" height="900" as="geometry" />
         </mxCell>
         <mxCell id="PWN6N76G5UAPGbaR_pDu-18" value="新时代文明实践中心" style="rounded=0;whiteSpace=wrap;html=1;fontColor=default;strokeColor=default;fillColor=default;" parent="PWN6N76G5UAPGbaR_pDu-17" vertex="1">
           <mxGeometry x="80" y="100" width="120" height="40" as="geometry" />
@@ -377,7 +383,7 @@
             <mxPoint x="1370" y="340" as="sourcePoint" />
             <mxPoint x="400" y="260" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1450" y="340" />
+              <mxPoint x="1600" y="340" />
               <mxPoint x="480" y="340" />
               <mxPoint x="480" y="260" />
             </Array>
