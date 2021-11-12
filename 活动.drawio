@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-11-12T02:39:01.473Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="RxnXxSDhbktz9vaK393F" version="15.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-12T02:39:25.350Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="BmTqEEoHi7mtzyVEGNcK" version="15.7.3" type="github">
   <diagram id="qpCgczyUxhtcVtG9j94T" name="第 1 页">
-    <mxGraphModel dx="2012" dy="634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2500" dy="895" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="KroNpoQIzIgqycC2E6Yz-1" value="C端" style="swimlane;" parent="1" vertex="1">
-          <mxGeometry x="-40" y="100" width="510" height="1780" as="geometry" />
+          <mxGeometry x="-40" y="100" width="510" height="1630" as="geometry" />
         </mxCell>
         <mxCell id="KroNpoQIzIgqycC2E6Yz-63" value="活动" style="rounded=0;whiteSpace=wrap;html=1;" parent="KroNpoQIzIgqycC2E6Yz-1" vertex="1">
           <mxGeometry x="290" y="130" width="120" height="40" as="geometry" />
@@ -113,7 +113,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="KroNpoQIzIgqycC2E6Yz-3" value="B端" style="swimlane;" parent="1" vertex="1">
-          <mxGeometry x="470" y="100" width="710" height="1820" as="geometry" />
+          <mxGeometry x="470" y="100" width="710" height="1630" as="geometry" />
         </mxCell>
         <mxCell id="KroNpoQIzIgqycC2E6Yz-6" value="所站点管理员/文明实践团队" style="rounded=0;whiteSpace=wrap;html=1;" parent="KroNpoQIzIgqycC2E6Yz-3" vertex="1">
           <mxGeometry x="467.5" y="70" width="150" height="40" as="geometry" />
@@ -507,7 +507,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="jqCrIXPKdoy0Cn4f-s1K-1" value="S端" style="swimlane;" parent="1" vertex="1">
-          <mxGeometry x="1780" y="100" width="470" height="1510" as="geometry" />
+          <mxGeometry x="1780" y="100" width="470" height="1630" as="geometry" />
         </mxCell>
         <mxCell id="jqCrIXPKdoy0Cn4f-s1K-2" value="商户配置" style="whiteSpace=wrap;html=1;" parent="jqCrIXPKdoy0Cn4f-s1K-1" vertex="1">
           <mxGeometry x="165" y="50" width="120" height="40" as="geometry" />
@@ -546,7 +546,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="8fSrwNJW2z-9N3ba0dvE-1" value="P端" style="swimlane;" parent="1" vertex="1">
-          <mxGeometry x="1180" y="100" width="600" height="1780" as="geometry" />
+          <mxGeometry x="1180" y="100" width="600" height="1630" as="geometry" />
         </mxCell>
         <mxCell id="8fSrwNJW2z-9N3ba0dvE-2" value="创建志愿者团队" style="rounded=0;whiteSpace=wrap;html=1;" parent="8fSrwNJW2z-9N3ba0dvE-1" vertex="1">
           <mxGeometry x="70" y="70" width="120" height="40" as="geometry" />
