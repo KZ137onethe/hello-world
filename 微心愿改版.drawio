@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-12T03:39:51.456Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="Obih5BmyNz-ELxUnei_7" version="15.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-12T03:44:18.244Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="ltU3ypKdxt_Z0CRWvELX" version="15.7.3" type="github">
   <diagram id="3Zdumfhe-f5hq_ZNzXjN" name="第 1 页">
-    <mxGraphModel dx="1422" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="813" dy="435" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -507,7 +507,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Rj2mn8werOWWxse8iK5x-12" value="业务" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;pointerEvents=1;" parent="1" vertex="1">
-          <mxGeometry x="20" y="620" width="210" height="416" as="geometry" />
+          <mxGeometry x="20" y="620" width="210" height="242" as="geometry" />
         </mxCell>
         <mxCell id="Rj2mn8werOWWxse8iK5x-13" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=1;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Rj2mn8werOWWxse8iK5x-12" vertex="1">
           <mxGeometry y="30" width="210" height="30" as="geometry" />
@@ -517,7 +517,7 @@
             <mxRectangle width="47" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Rj2mn8werOWWxse8iK5x-15" value="认领微心愿后用户能取消微心愿吗？ &lt;font color=&quot;#ff0000&quot;&gt;不能&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;pointerEvents=1;" parent="Rj2mn8werOWWxse8iK5x-13" vertex="1">
+        <mxCell id="Rj2mn8werOWWxse8iK5x-15" value="微心愿审核" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;pointerEvents=1;" parent="Rj2mn8werOWWxse8iK5x-13" vertex="1">
           <mxGeometry x="47" width="163" height="30" as="geometry">
             <mxRectangle width="163" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -530,7 +530,7 @@
             <mxRectangle width="47" height="60" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Rj2mn8werOWWxse8iK5x-18" value="志愿者认领微心愿后会创建一个微心愿" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;pointerEvents=1;" parent="Rj2mn8werOWWxse8iK5x-16" vertex="1">
+        <mxCell id="Rj2mn8werOWWxse8iK5x-18" value="如果志愿者没有加入志愿者团队，微心愿审核由文明实践中心去审核" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;pointerEvents=1;" parent="Rj2mn8werOWWxse8iK5x-16" vertex="1">
           <mxGeometry x="47" width="163" height="60" as="geometry">
             <mxRectangle width="163" height="60" as="alternateBounds" />
           </mxGeometry>
@@ -543,48 +543,9 @@
             <mxRectangle width="47" height="62" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Rj2mn8werOWWxse8iK5x-21" value="志愿者完成微心愿，用户评价和不评价&lt;br&gt;&lt;font color=&quot;#ff0000&quot;&gt;上级机构统一审核，评定文明分&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;pointerEvents=1;" parent="Rj2mn8werOWWxse8iK5x-19" vertex="1">
+        <mxCell id="Rj2mn8werOWWxse8iK5x-21" value="如果志愿者加入志愿者团队，微心愿审核由志愿者团队所属的文明实践机构去审核" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;pointerEvents=1;" parent="Rj2mn8werOWWxse8iK5x-19" vertex="1">
           <mxGeometry x="47" width="163" height="62" as="geometry">
             <mxRectangle width="163" height="62" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Rj2mn8werOWWxse8iK5x-22" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=1;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Rj2mn8werOWWxse8iK5x-12" vertex="1">
-          <mxGeometry y="182" width="210" height="58" as="geometry" />
-        </mxCell>
-        <mxCell id="Rj2mn8werOWWxse8iK5x-23" value="4" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" parent="Rj2mn8werOWWxse8iK5x-22" vertex="1">
-          <mxGeometry width="47" height="58" as="geometry">
-            <mxRectangle width="47" height="58" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Rj2mn8werOWWxse8iK5x-24" value="P端的微心愿审核指的是：人工审核还是AI审核&amp;nbsp; &lt;br&gt;&lt;font color=&quot;#ff0000&quot;&gt;P端没有微心愿审核&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;pointerEvents=1;" parent="Rj2mn8werOWWxse8iK5x-22" vertex="1">
-          <mxGeometry x="47" width="163" height="58" as="geometry">
-            <mxRectangle width="163" height="58" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Rj2mn8werOWWxse8iK5x-25" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=1;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Rj2mn8werOWWxse8iK5x-12" vertex="1">
-          <mxGeometry y="240" width="210" height="58" as="geometry" />
-        </mxCell>
-        <mxCell id="Rj2mn8werOWWxse8iK5x-26" value="5" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" parent="Rj2mn8werOWWxse8iK5x-25" vertex="1">
-          <mxGeometry width="47" height="58" as="geometry">
-            <mxRectangle width="47" height="58" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Rj2mn8werOWWxse8iK5x-27" value="微心愿参与的志愿者可能有多人" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;pointerEvents=1;" parent="Rj2mn8werOWWxse8iK5x-25" vertex="1">
-          <mxGeometry x="47" width="163" height="58" as="geometry">
-            <mxRectangle width="163" height="58" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Rj2mn8werOWWxse8iK5x-28" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=1;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Rj2mn8werOWWxse8iK5x-12" vertex="1">
-          <mxGeometry y="298" width="210" height="58" as="geometry" />
-        </mxCell>
-        <mxCell id="Rj2mn8werOWWxse8iK5x-29" value="6" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" parent="Rj2mn8werOWWxse8iK5x-28" vertex="1">
-          <mxGeometry width="47" height="58" as="geometry">
-            <mxRectangle width="47" height="58" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Rj2mn8werOWWxse8iK5x-30" value="文明实践中心缺少微心愿管理&lt;br&gt;&lt;font color=&quot;#ff0000&quot;&gt;未添加&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;pointerEvents=1;" parent="Rj2mn8werOWWxse8iK5x-28" vertex="1">
-          <mxGeometry x="47" width="163" height="58" as="geometry">
-            <mxRectangle width="163" height="58" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
       </root>
