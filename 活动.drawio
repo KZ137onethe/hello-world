@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-17T06:01:33.824Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="VELMLl_OCG1OlS_0QLhd" version="15.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-17T06:04:57.622Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="O-vBy1aqiZ6gV7ixxscI" version="15.7.4" type="github">
   <diagram id="qpCgczyUxhtcVtG9j94T" name="第 1 页">
     <mxGraphModel dx="2249" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -154,7 +154,7 @@
         <mxCell id="KroNpoQIzIgqycC2E6Yz-32" value="发布活动" style="rounded=0;whiteSpace=wrap;html=1;" parent="KroNpoQIzIgqycC2E6Yz-3" vertex="1">
           <mxGeometry x="642.5" y="994.5" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="KroNpoQIzIgqycC2E6Yz-46" value="新时代文明实践" style="rounded=0;whiteSpace=wrap;html=1;" parent="KroNpoQIzIgqycC2E6Yz-3" vertex="1">
+        <mxCell id="KroNpoQIzIgqycC2E6Yz-46" value="内容管理-文明实践中心" style="rounded=0;whiteSpace=wrap;html=1;" parent="KroNpoQIzIgqycC2E6Yz-3" vertex="1">
           <mxGeometry x="263" y="1300" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KroNpoQIzIgqycC2E6Yz-48" value="" style="endArrow=classic;html=1;rounded=1;strokeColor=default;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="KroNpoQIzIgqycC2E6Yz-3" source="KroNpoQIzIgqycC2E6Yz-46" target="FjpEWepWwARHCfVB9OQ8-1" edge="1">
@@ -403,50 +403,14 @@
         <mxCell id="8fSrwNJW2z-9N3ba0dvE-69" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;dashed=1;strokeColor=#FF0080;" parent="KroNpoQIzIgqycC2E6Yz-3" vertex="1">
           <mxGeometry x="556.63" y="670" width="291.75" height="141.25" as="geometry" />
         </mxCell>
-        <mxCell id="8fSrwNJW2z-9N3ba0dvE-158" value="微心愿审核" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=default;strokeColor=default;fontColor=default;" parent="KroNpoQIzIgqycC2E6Yz-3" vertex="1">
-          <mxGeometry x="103" y="1380" width="110" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="8fSrwNJW2z-9N3ba0dvE-159" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=default;strokeColor=default;fontColor=default;labelBackgroundColor=default;curved=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" parent="KroNpoQIzIgqycC2E6Yz-3" source="KroNpoQIzIgqycC2E6Yz-46" target="8fSrwNJW2z-9N3ba0dvE-158" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-612" y="1200" as="targetPoint" />
-            <mxPoint x="303" y="1370" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="8fSrwNJW2z-9N3ba0dvE-160" value="" style="endArrow=classic;html=1;rounded=0;fontSize=11;fontColor=default;strokeColor=default;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=default;" parent="KroNpoQIzIgqycC2E6Yz-3" source="8fSrwNJW2z-9N3ba0dvE-158" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-1167" y="1030" as="sourcePoint" />
-            <mxPoint x="158" y="1450" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="8fSrwNJW2z-9N3ba0dvE-169" value="评文明时长和文明分" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=default;strokeColor=default;fontColor=default;" parent="KroNpoQIzIgqycC2E6Yz-3" vertex="1">
-          <mxGeometry x="93" y="1450" width="130" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="8fSrwNJW2z-9N3ba0dvE-171" value="微心愿审核" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=default;strokeColor=default;fontColor=default;" parent="KroNpoQIzIgqycC2E6Yz-3" vertex="1">
-          <mxGeometry x="103" y="1380" width="110" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="8fSrwNJW2z-9N3ba0dvE-175" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;dashed=1;strokeColor=#FF0080;" parent="KroNpoQIzIgqycC2E6Yz-3" vertex="1">
-          <mxGeometry x="83" y="1350" width="150" height="160" as="geometry" />
-        </mxCell>
         <mxCell id="8fSrwNJW2z-9N3ba0dvE-176" value="微心愿活动" style="text;strokeColor=none;fillColor=none;html=1;fontSize=17;fontStyle=1;verticalAlign=middle;align=center;fontColor=#FF8000;" parent="KroNpoQIzIgqycC2E6Yz-3" vertex="1">
-          <mxGeometry x="108" y="1310" width="100" height="40" as="geometry" />
+          <mxGeometry x="435" y="1300" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FjpEWepWwARHCfVB9OQ8-1" value="活动审核" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=default;strokeColor=default;fontColor=default;" parent="KroNpoQIzIgqycC2E6Yz-3" vertex="1">
           <mxGeometry x="268" y="1380" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FjpEWepWwARHCfVB9OQ8-2" value="点单服务审核" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=default;strokeColor=default;fontColor=default;" parent="KroNpoQIzIgqycC2E6Yz-3" vertex="1">
-          <mxGeometry x="424.31" y="1380" width="110" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="FjpEWepWwARHCfVB9OQ8-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="KroNpoQIzIgqycC2E6Yz-3" source="KroNpoQIzIgqycC2E6Yz-46" target="FjpEWepWwARHCfVB9OQ8-2" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="413" y="1390" as="sourcePoint" />
-            <mxPoint x="463" y="1340" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="FjpEWepWwARHCfVB9OQ8-4" value="评文明时长和文明分" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=default;strokeColor=default;fontColor=default;" parent="KroNpoQIzIgqycC2E6Yz-3" vertex="1">
           <mxGeometry x="258" y="1450" width="130" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="FjpEWepWwARHCfVB9OQ8-5" value="评文明时长和文明分" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=default;strokeColor=default;fontColor=default;" parent="KroNpoQIzIgqycC2E6Yz-3" vertex="1">
-          <mxGeometry x="415" y="1450" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FjpEWepWwARHCfVB9OQ8-6" value="" style="endArrow=classic;html=1;rounded=0;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="KroNpoQIzIgqycC2E6Yz-3" source="FjpEWepWwARHCfVB9OQ8-1" target="FjpEWepWwARHCfVB9OQ8-4" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -454,23 +418,11 @@
             <mxPoint x="393" y="1310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FjpEWepWwARHCfVB9OQ8-7" value="" style="endArrow=classic;html=1;rounded=0;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="KroNpoQIzIgqycC2E6Yz-3" source="FjpEWepWwARHCfVB9OQ8-2" target="FjpEWepWwARHCfVB9OQ8-5" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="343" y="1360" as="sourcePoint" />
-            <mxPoint x="393" y="1310" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="FjpEWepWwARHCfVB9OQ8-8" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;dashed=1;strokeColor=#FF0080;" parent="KroNpoQIzIgqycC2E6Yz-3" vertex="1">
-          <mxGeometry x="248" y="1370" width="150" height="160" as="geometry" />
-        </mxCell>
         <mxCell id="FjpEWepWwARHCfVB9OQ8-9" value="自定义活动" style="text;strokeColor=none;fillColor=none;html=1;fontSize=17;fontStyle=1;verticalAlign=middle;align=center;fontColor=#FF8000;" parent="KroNpoQIzIgqycC2E6Yz-3" vertex="1">
-          <mxGeometry x="273" y="1530" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="FjpEWepWwARHCfVB9OQ8-10" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;dashed=1;strokeColor=#FF0080;" parent="KroNpoQIzIgqycC2E6Yz-3" vertex="1">
-          <mxGeometry x="405.5" y="1350" width="150" height="160" as="geometry" />
+          <mxGeometry x="435" y="1400" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FjpEWepWwARHCfVB9OQ8-11" value="点单服务活动" style="text;strokeColor=none;fillColor=none;html=1;fontSize=17;fontStyle=1;verticalAlign=middle;align=center;fontColor=#FF8000;" parent="KroNpoQIzIgqycC2E6Yz-3" vertex="1">
-          <mxGeometry x="429.30999999999995" y="1310" width="100" height="40" as="geometry" />
+          <mxGeometry x="434.99999999999994" y="1350" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="BuUmO1E-tudYoT2X7st1-1" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=5;rounded=0;fontSize=20;fontColor=#FF8000;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#ffe6cc;strokeColor=#FF9933;" parent="KroNpoQIzIgqycC2E6Yz-3" source="8fSrwNJW2z-9N3ba0dvE-55" target="8fSrwNJW2z-9N3ba0dvE-66" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -742,6 +694,9 @@
         </mxCell>
         <mxCell id="BuUmO1E-tudYoT2X7st1-29" value="&lt;font style=&quot;font-size: 16px&quot;&gt;AI审核&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;dashed=1;fontColor=#FF9933;" parent="8fSrwNJW2z-9N3ba0dvE-1" vertex="1">
           <mxGeometry x="210" y="482.5" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hF5PdmJpdvPrCQUtq0KS-2" value="文明实践" style="text;strokeColor=none;fillColor=none;html=1;fontSize=17;fontStyle=1;verticalAlign=middle;align=center;fontColor=#FF8000;" vertex="1" parent="8fSrwNJW2z-9N3ba0dvE-1">
+          <mxGeometry x="205" y="1130" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8fSrwNJW2z-9N3ba0dvE-97" value="" style="endArrow=classic;html=1;rounded=0;fontSize=15;fontColor=#FF8000;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="KroNpoQIzIgqycC2E6Yz-66" target="8fSrwNJW2z-9N3ba0dvE-93" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
