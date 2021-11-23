@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-23T03:12:56.223Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="vNgDeMUUUB_K7K7InzqU" version="15.8.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-23T03:47:09.136Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="5T_0hwKinJntDWL7HDIA" version="15.8.3" type="github">
   <diagram id="DlCX1n8TsJknIR6_e5Gm" name="第 1 页">
-    <mxGraphModel dx="4382" dy="1903" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2249" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -161,6 +161,15 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="630" y="370" as="sourcePoint" />
             <mxPoint x="675" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7hJFQz6WcXEth0cIHP60-124" value="所关联所有&lt;br&gt;的秀文明评论" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=14;fontColor=#000000;strokeColor=#000000;strokeWidth=1;fillColor=default;align=left;" vertex="1" parent="7hJFQz6WcXEth0cIHP60-1">
+          <mxGeometry x="435" y="540" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7hJFQz6WcXEth0cIHP60-125" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=14;fontColor=#000000;strokeColor=#000000;strokeWidth=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="7hJFQz6WcXEth0cIHP60-1" source="7hJFQz6WcXEth0cIHP60-99" target="7hJFQz6WcXEth0cIHP60-124">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="590" y="410" as="sourcePoint" />
+            <mxPoint x="640" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7hJFQz6WcXEth0cIHP60-2" value="B端" style="swimlane;fontSize=20;startSize=30;" vertex="1" parent="1">
@@ -342,6 +351,18 @@
             <mxPoint x="1180" y="520" as="sourcePoint" />
             <mxPoint x="1120" y="390" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="7hJFQz6WcXEth0cIHP60-118" value="备注" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontFamily=Helvetica;fontSize=14;fontColor=#000000;strokeColor=#000000;strokeWidth=2;fillColor=default;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-650" y="140" width="290" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="7hJFQz6WcXEth0cIHP60-119" value="非注册用户(帮扶对象)用手机号登录C端，通&#xa;过实名认证与帮扶对象关联" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontFamily=Helvetica;fontSize=14;fontColor=#000000;" vertex="1" parent="7hJFQz6WcXEth0cIHP60-118">
+          <mxGeometry y="30" width="290" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7hJFQz6WcXEth0cIHP60-120" value="Item 2" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontFamily=Helvetica;fontSize=14;fontColor=#000000;" vertex="1" parent="7hJFQz6WcXEth0cIHP60-118">
+          <mxGeometry y="70" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7hJFQz6WcXEth0cIHP60-121" value="Item 3" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontFamily=Helvetica;fontSize=14;fontColor=#000000;" vertex="1" parent="7hJFQz6WcXEth0cIHP60-118">
+          <mxGeometry y="100" width="290" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
